@@ -1,0 +1,16 @@
+body{
+    background-color: #14161C;
+    margin: 0;
+    padding: 0;
+}
+header{
+    position: relative;
+    padding-left: 50px;
+    margin-top: 50px;
+    height: 70px;
+    border-bottom: 1px solid #585858;
+}
+img{
+    width: 50px;
+}
+
