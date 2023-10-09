@@ -13,4 +13,22 @@ header{
 img{
     width: 50px;
 }
-
+.container{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+.grid-container{
+    display: inline-grid;
+    grid-template-columns: auto auto auto auto auto;
+    grid-gap: 10px;
+}
+.grid-item {
+    color:aliceblue;
+    background-color: #14161C;
+    border: 2px solid #585858;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
+  
